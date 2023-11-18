@@ -1,0 +1,223 @@
+.Title {
+    color: rgb(210, 57, 30);
+    
+    border-color: black;
+    margin-right: 600px;
+    margin-left: auto;
+    width: 300px;
+    text-align: center;
+    
+
+
+}
+
+.title2 {
+    color: rgb(210, 57, 30);
+    
+    border-color: black;
+    margin-right: 400px;
+    margin-left: auto;
+    width: 300px;
+    text-align: center;
+     
+}
+
+.title3 {
+    color: rgb(210, 57, 30);
+   
+    border-color: black;
+    margin-right: 600px;
+    margin-left: auto;
+    width: 300px;
+    text-align: center;
+    
+}
+
+.title4 {
+    color: rgb(210, 57, 30);
+   
+    border-color: black;
+    margin-right: 475px;
+    margin-left: auto;
+    width: 300px;
+    text-align: center;
+    
+}
+
+.titles {
+  width: 100%;
+  margin-left: 375px;
+  margin-bottom: -25px;
+    
+}
+
+.odinImage {
+    
+    display: block;
+    width: 10%;
+    margin-right: 430px;
+    margin-left: auto;
+}
+
+  .all {
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    }
+
+.crepes {
+    color: brown;
+    font-weight: 900;
+    text-align: center;
+    
+}
+
+.used {
+    color: green;
+}
+
+.list {
+    
+    margin-right: 380px;
+    margin-left: auto;
+    width: 200px;
+    padding: auto;
+    list-style-type: none;
+    text-decoration: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    
+   
+}
+
+.liColor {
+    color: brown;
+}
+
+.liColor2 {
+    color: rgb(100, 72, 1);
+}
+
+.liColor3 {
+    color: darkblue;
+}
+
+.liColor4 {
+    color: forestgreen;
+}
+
+
+
+
+.image {
+    text-align: center;
+}
+
+.pics {
+display: flex;
+gap: 15px;
+
+
+}
+
+.epic {
+    display: flex;
+    align-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.diogenes {
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    margin-top: 50px;
+}
+
+.epicText {
+   text-align: center;
+
+    
+}
+
+.dio {
+    text-align: center;
+}
+.title {
+    text-align: center;
+    color: forestgreen;
+    margin-bottom: 50px;
+}
+
+.relativism {
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.nag {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nagWord {
+    text-align: center;
+    
+}
+
+.vasu {
+    text-align: center;
+}
+
+.pyr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skep {
+    color: darkblue;
+    text-align: center;
+}
+
+.pyrText {
+    text-align: center;
+}
+
+.idealColor {
+    background-color: rgb(224, 224, 224);
+}
+
+.mainColor {
+    background-color: rgb(189, 153, 88);
+    
+}
+
+.relColor {
+    background-color: burlywood;
+}
+
+.skepColor {
+    background-color: olivedrab;
+}
+
+.comColor {
+    background-color: darkkhaki;
+}
+
+.hedonism {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
